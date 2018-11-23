@@ -1,0 +1,1 @@
+g++ -o protictor protictor.h protictor.cpp -lboost_regex -std=c++11
